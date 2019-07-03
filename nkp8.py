@@ -1,4 +1,3 @@
-    
 z=int(input())
 sum=z
 while z>0:
